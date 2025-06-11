@@ -19,11 +19,6 @@ target/
 *.iml
 *.ipr
 
-dog-palace/.idea/
-dog-palace/*.iws
-dog-palace/*.iml
-dog-palace/*.ipr
-
 
 ### NetBeans ###
 /nbproject/private/
@@ -39,6 +34,5 @@ build/
 .vscode/
 
 
-## application properties
-dog-palace/src/main/resources/application.properties
+
 
